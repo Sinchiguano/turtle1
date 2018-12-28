@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/catkin_ws/install
+
+Name: master_sync_fkie
+Description: Description of master_sync_fkie
+Version: 0.8.2
+Cflags: 
+Libs: -L/home/turtlebot/catkin_ws/install/lib 
+Requires: master_discovery_fkie multimaster_msgs_fkie

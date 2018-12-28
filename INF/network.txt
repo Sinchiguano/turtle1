@@ -1,0 +1,15 @@
+cat /proc/sys/net/ipv4/icmp_echo_ignore_broadcasts
+
+if 0 it is good
+1 we have to enable with 
+sudo sh -c "echo 0 > /proc/sys/net/ipv4/icmp_echo_ignore_broadcasts"
+
+
+in order for the changes to take effects
+sudo service procps restart
+
+then i should output 0
+
+#final set up
+#for multiros 
+net.ipv4.icmp_echo_ignore_broadcasts=0

@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/catkin_ws/devel
+
+Name: node_manager_fkie
+Description: Description of node_manager_fkie
+Version: 0.8.2
+Cflags: 
+Libs: -L/home/turtlebot/catkin_ws/devel/lib 
+Requires: diagnostic_msgs master_discovery_fkie multimaster_msgs_fkie

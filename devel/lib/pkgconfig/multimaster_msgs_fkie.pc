@@ -1,0 +1,8 @@
+prefix=/home/turtlebot/catkin_ws/devel
+
+Name: multimaster_msgs_fkie
+Description: Description of multimaster_msgs_fkie
+Version: 0.8.2
+Cflags: -I/home/turtlebot/catkin_ws/devel/include
+Libs: -L/home/turtlebot/catkin_ws/devel/lib 
+Requires: message_runtime std_msgs
