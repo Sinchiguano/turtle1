@@ -1,0 +1,20 @@
+127.0.0.1	localhost
+127.0.1.1	turtle01
+
+
+################
+#for ciirc net
+#10.37.2.152     turtle01
+#10.37.2.243     turtle02
+
+#for SITH net
+192.168.250.201     turtle01
+192.168.250.251     turtle02
+192.168.250.111     turtle03
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
