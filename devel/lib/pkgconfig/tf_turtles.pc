@@ -1,8 +1,0 @@
-prefix=/home/turtlebot/catkin_ws/devel
-
-Name: tf_turtles
-Description: Description of tf_turtles
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/turtlebot/catkin_ws/devel/lib 
-Requires: 
